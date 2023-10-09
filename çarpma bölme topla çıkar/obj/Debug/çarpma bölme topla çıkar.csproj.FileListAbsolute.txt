@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\çarpma bölme topla çıkar\çarpma bölme topla çıkar\bin\Debug\çarpma bölme topla çıkar.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\çarpma bölme topla çıkar\çarpma bölme topla çıkar\bin\Debug\çarpma bölme topla çıkar.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\çarpma bölme topla çıkar\çarpma bölme topla çıkar\bin\Debug\çarpma bölme topla çıkar.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\çarpma bölme topla çıkar\çarpma bölme topla çıkar\obj\Debug\çarpma bölme topla çıkar.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\çarpma bölme topla çıkar\çarpma bölme topla çıkar\obj\Debug\çarpma bölme topla çıkar.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\çarpma bölme topla çıkar\çarpma bölme topla çıkar\obj\Debug\çarpma_bölme_topla_çıkar.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\çarpma bölme topla çıkar\çarpma bölme topla çıkar\obj\Debug\çarpma_bölme_topla_çıkar.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\çarpma bölme topla çıkar\çarpma bölme topla çıkar\obj\Debug\çarpma bölme topla çıkar.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\çarpma bölme topla çıkar\çarpma bölme topla çıkar\obj\Debug\çarpma bölme topla çıkar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\çarpma bölme topla çıkar\çarpma bölme topla çıkar\obj\Debug\çarpma bölme topla çıkar.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\çarpma bölme topla çıkar\çarpma bölme topla çıkar\obj\Debug\çarpma bölme topla çıkar.pdb
